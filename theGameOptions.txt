@@ -1,0 +1,4 @@
+playerSpeed,2
+playerSize,2
+useUserPrefs,False
+timer,2
